@@ -1,0 +1,15 @@
+.done {
+    background: greenyellow;
+    color: black
+}
+
+.TodoItem 
+{
+    display: flex;
+    align-items: center
+}
+.TodoItem img
+{
+    margin-left: 10px;
+    margin-right: 10px
+}
