@@ -18,7 +18,7 @@ class App extends Component {
         newitem: '',
         currentColor: YELLOW,
         workArray: [{title:"đi mua nước ngọt", isDone: true},
-                    {title: "chơi game", isDone : false},
+                    {title: "chơi game", isDone : true},
                     {title:"đá bóng",isDone: false}]
     }
 
